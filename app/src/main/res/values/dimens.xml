@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="normal_padding">12dp</dimen>
+    <dimen name="small_padding">12dp</dimen>
+    <dimen name="text_title">16sp</dimen>
+    <dimen name="extra_small_padding">8dp</dimen>
+    <dimen name="small_text_size">12sp</dimen>
+    <dimen name="tripple_extra_small_padding">2dp</dimen>
+    <dimen name="double_extra_margin">4dp</dimen>
+    <dimen name="normal_margin">12dp</dimen>
+    <dimen name="double_extra_small_margin">4dp</dimen>
+    <dimen name="extra_small_margin">8dp</dimen>
+</resources>
